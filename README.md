@@ -1,7 +1,7 @@
 # InfoG v1.0
 ## Author: github.com/alwaysabdulr
 ## IG: instagram.com/alwaysabdulr
-### Don't copy this code without give me the credits, nerd! 
+### Don't copy this code without giving me the credits, nerd! 
 
 InfoG is a Shellscript to perform Information Gathering 
 
@@ -35,7 +35,4 @@ bash infog.sh
 apt-get install -y curl nc
 ```
 
-### Donate!
-Support the authors:
 
-<noscript><a href="https://liberapay.com/thelinuxchoice/donate"><img alt="Donate using Liberapay" src="https://liberapay.com/assets/widgets/donate.svg"></a></noscript>
